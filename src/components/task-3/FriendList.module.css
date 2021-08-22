@@ -1,0 +1,28 @@
+li {
+	list-style-type: none;
+	border: white;
+	box-shadow: 0 0 7px #666;
+	width: 100px;
+    height: 145px;
+}
+
+.name {
+	font-size: larger;
+	margin-left: 45px;
+	text-align: right ;
+   
+	
+}
+
+.friendList {
+	background-color: lawngreen;
+    width: 17px;
+    border-radius: 100px; /* Радиус скругления */
+    border: 3px solid gray; /* Параметры рамки */
+    
+  
+}
+
+.offline {
+	background-color: red;
+}
